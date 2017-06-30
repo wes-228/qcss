@@ -1,0 +1,16 @@
+@import url('https://cdn.jsdelivr.net/combine/gh/daneden/animate.css@3.5.2/animate.min.css,gh/necolas/normalize.css@7.0.0/normalize.min.css');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway');
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+body {
+	background-color: dimgray;
+}
+p {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 30px;
+	color: crimson;
+}
